@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name="lazyelastic",
-    version="0.2",
+    version="0.2.1",
     keywords=("lazy", "elasticsearch", "orm"),
     long_description="lay elastic orm, create/search/delete",
     license="MIT Licence",
-    url="https://codeup.aliyun.com/5f166157db0493ecef90a46c/mmcloud/lazyelastic",
+    url="https://github.com/yexiangyu/lazyelastic",
     author="yexiangyu",
     author_email="yexiangyu@maimenggroup.com",
     packages=['lazyelastic'],
